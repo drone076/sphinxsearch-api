@@ -1,7 +1,7 @@
 <?php
 
 //
-// $Id$
+// $Id: sphinxapi.php 3782 2019-01-29 14:55:58Z drone076 $
 //
 
 //
